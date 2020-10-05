@@ -5,10 +5,10 @@
 **Data formats in**  
 **Data formats out**  
 
-**Three tips:**  [ one of which must be advanced -- ie, likely to be found in a later chapter or section on datacamp]
-1.
-2.
-3.
+**Three tips:**  [ one of which must be advanced -- ie, likely to be found in a later chapter or section on datacamp]  
+1.  
+2.  
+3.  
 
 **Examples of use:** [minimal program sample, link to notebook or document or screenshot]  
 
