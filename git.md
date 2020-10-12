@@ -1,6 +1,7 @@
-# Skill name: Git
+# Skill name: Using Git for version control
+##Adam Tegart
 
-**Summary:** Git is an open source programme used for version control that can allow for collaboration and peace of mind 
+**Summary:** Git is an open source programme used for version control that can allow for collaboration and peace of mind
 
 **Data formats in**  
 **Data formats out**  
