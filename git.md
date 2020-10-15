@@ -1,5 +1,4 @@
 # Skill name: Using Git for version-control
-## Adam Tegart
 
 **Summary:** Git is a version-control system which tracks changes to files and allows for easy collaboration between programmers.
 
@@ -11,8 +10,11 @@
 2.  git checkout -- filename can be used to undo any changes made to a file since your last commit.
 3.  You can use git init in a directory that is not yet a git repository to convert it to one, or git init path/to/file to turn a specific file into a git repository.
 
-**Examples of use:** [minimal program sample, link to notebook or document or screenshot]  
+**Examples of use:**
+![Using git init](images/git-init.png)   
+
+![Checking result using git status](images/cd-and-status.png)
 
 **Contribution to data analytics pipeline:** Git is useful for keeping previous versions of your files and making them hard to lose (Data Preservation) and also allows you to quickly return to previous versions should you make a mistake (Data Processing)
 
-**Comment on your skill level:** [self-rating on this skill and what you’d like to learn to do better or what you’ll do next]
+**Comment on your skill level:** My current level is 6/10. I haven't been using git long and only really use basic functionality. To improve I would like to learn more about some of the more advanced functionality and also become more efficient with using shell commands to speed up my git processes.
