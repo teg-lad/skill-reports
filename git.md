@@ -13,7 +13,6 @@
 **Examples of use:**
 
 ![Using git init](images/git-init.PNG)   
-
 ![Checking result using git status](images/cd-and-status.PNG)
 
 **Contribution to data analytics pipeline:** Git is useful for keeping previous versions of your files and making them hard to lose (Data Preservation) and also allows you to quickly return to previous versions should you make a mistake (Data Processing).
