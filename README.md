@@ -10,7 +10,7 @@ This repository contains the skills and technology notes for CA273. The followin
 * Python Visualiation (matplotlib, seaborn or bokeh)
 * Scripting
 * Jupyter Notebooks (not python specific)
-* OpenRefine
+* ([OpenRefine](openrefine.md))
 * Cleaning with Python
 * Spreadsheets (Advanced)
 * HTML
