@@ -2,8 +2,8 @@
 
 **Summary:** Spreadsheets are a way of organizing data and quickly being able to analyze it with function in many spreadsheet programs like Excel and Google Sheets.
 
-**Data formats in**  csv, tsv, dif, ods, xls, xlsx, xml (to name a few, any typical spreadsheet file with rows and columns). Only excel workbook files can be used to store functions. files like csv will only contain the values.
-**Data formats out**  all mentioned above and also txt files and pdf. As mentioned previously, if exporting as a csv, the functions used in the spreadsheet will not be saved.
+**Data formats in:**  csv, tsv, dif, ods, xls, xlsx, xml (to name a few, any typical spreadsheet file with rows and columns). Only excel workbook files can be used to store functions. files like csv will only contain the values.
+**Data formats out:**  all mentioned above and also txt files and pdf. As mentioned previously, if exporting as a csv, the functions used in the spreadsheet will not be saved.
 
 **Three tips:**  
 1.  The WEEKDAY function can be passed a date and an arrangement type (1, 2 or 3, gives the days different numbers) and it will return a number which corresponds to a particular day in the week.
@@ -13,6 +13,7 @@
 **Examples of use:**
 
  ![VLOOKUP Command](images/spreadsheets/vlookup1.PNG)   
+
 ![VLOOKUP Result](images/spreadsheets/vlookup2.PNG)
 
 **Contribution to data analytics pipeline:** Spreadsheets act as a nice way to view your data in an organized way and function allow for easy sanity checks and calculations (Data Processing). Spreadsheets also act as a way of storing data once it has been finished with (Data Preservation). Programs such as excel also allow for data visualizations with simple and easy to make visualizations.
