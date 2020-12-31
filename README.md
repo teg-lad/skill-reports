@@ -6,7 +6,7 @@ This repository contains the skills and technology notes for CA273. The followin
 
 * ([Git](git.md))
 * ([Spreadsheets](spreadsheets.md))
-* Pandas
+* ([Pandas](pandas.md))
 * Python Visualiation (matplotlib, seaborn or bokeh)
 * Scripting
 * Jupyter Notebooks (not python specific)
