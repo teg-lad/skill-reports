@@ -7,13 +7,13 @@ This repository contains the skills and technology notes for CA273. The followin
 * ([Git](git.md))
 * ([Spreadsheets](spreadsheets.md))
 * ([Pandas](pandas.md))
-* Python Visualiation (matplotlib, seaborn or bokeh)
-* Scripting
-* Jupyter Notebooks (not python specific)
+* ([Python Visualization (matplotlib, seaborn or bokeh)](visualization.md))
+* ([Scripting](scripting.md))
+* ([Jupyter Notebooks (not python specific)](jupyter.md))
 * ([OpenRefine](openrefine.md))
 * Cleaning with Python
 * Spreadsheets (Advanced)
-* HTML
+* ([HTML](html.md))
 
 
 Reasons for doing this?  
