@@ -14,7 +14,7 @@
 
 ![hovering over points to show tooltips](images/visualization/bokeh.PNG)   
 
-* ([My Bokeh Notebook](visualization.ipynb))
+[My Bokeh Notebook](visualization.ipynb)
 
 **Contribution to data analytics pipeline:** These Python libraries are used primarily to display the data in a way it can be better understood. This would mean that they contribute mainly to the analysis of the data and the presentation of the meaning the data has.
 
