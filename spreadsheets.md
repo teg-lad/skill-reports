@@ -2,7 +2,7 @@
 
 **Summary:** Spreadsheets are a way of organizing data and quickly being able to analyze it with function in many spreadsheet programs like Excel and Google Sheets.
 
-**Data formats in:**  csv, tsv, dif, ods, xls, xlsx, xml (to name a few, any typical spreadsheet file with rows and columns). Only excel workbook files can be used to store functions. files like csv will only contain the values.
+**Data formats in:**  csv, tsv, dif, ods, xls, xlsx, xml (to name a few, any typical spreadsheet file with rows and columns). Only excel workbook files can be used to store functions. files like csv will only contain the values.   
 **Data formats out:**  all mentioned above and also txt files and pdf. As mentioned previously, if exporting as a csv, the functions used in the spreadsheet will not be saved.
 
 **Three tips:**  
